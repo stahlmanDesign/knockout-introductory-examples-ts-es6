@@ -11,3 +11,9 @@ With TypeScript and Typings installed, and this folder opened in terminal:
 - `tsc` to transpile src/main.ts once
 - `tsc -w` to watch for changes
 - `open index.html`
+
+# Demos
+
+http://codepen.io/collection/nbrwOJ/
+
+<img src='demos.png'/>
