@@ -1,0 +1,44 @@
+body {
+    font-family: arial;
+    font-size: 14px;
+}
+
+.vm6 {
+    padding: 1em;
+    background-color: #EEEEDD;
+    border: 1px solid #CCC;
+    max-width: 655px;
+}
+
+.vm6 input {
+    font-family: Arial;
+}
+
+.vm6 b {
+    font-weight: bold;
+}
+
+.vm6 p {
+    margin-top: 0.9em;
+    margin-bottom: 0.9em;
+}
+
+.vm6 select[multiple] {
+    width: 100%;
+    height: 8em;
+}
+
+.vm6 h2 {
+    margin-top: 0.4em;
+}
+
+.renderTime {
+    color: #777;
+    font-style: italic;
+    font-size: 0.8em;
+}
+
+li {
+    list-style-type: disc;
+    margin-left: 20px;
+}
